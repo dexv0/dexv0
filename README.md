@@ -1,16 +1,14 @@
-## Hi there 👋
+<a href="https://www.youtube.com/watch?v=zL19uMsnpSU&t=1402s&ab_channel=cameronbarnett" target="_blank"> <img src="https://github.com/user-attachments/assets/8d7c7cf1-cf81-444c-9fd7-8dd2b01d7740" alt="Dexv's Github"/></a>
 
-<!--
-**dexv0/dexv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```sh-session
+pip install fcaptcha
+```
+```python
+DXVVAY = 'Dexv'
+print(f'Follow {DXVVAY} on Github')
+```
+```python
+Working on hCaptcha
+```
+📩・**Want to reach? Add @dexv0 on [Telegram](https://t.me/dexv0)**
