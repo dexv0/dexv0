@@ -8,3 +8,5 @@ print(f'Follow {DXVVAY} on Github')
 Getting better at reverse engineering
 ```
 📩・**Want to reach? Add @dexv0 on [Telegram](https://t.me/dexv0)**
+
+🌐・**Check out my website [dexv.lol](https://dexv.lol)**
