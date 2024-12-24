@@ -4,7 +4,7 @@
 DXVVAY = 'Dexv'
 print(f'Follow {DXVVAY} on Github')
 ```
-```python
+```text
 Getting better at reverse engineering
 ```
 📩・**Want to reach? Add @dexv0 on [Telegram](https://t.me/dexv0)**
